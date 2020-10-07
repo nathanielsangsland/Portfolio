@@ -1,0 +1,91 @@
+.carousel-item{
+    height: fit-content;
+    width: fit-content;
+    left: 37%;
+    z-index: 1;
+    border: 10px solid #f2f2f2;
+    border-radius: 5px;
+    
+    
+
+}
+.card-1{
+    position: relative;
+    top: 400px;
+    left: 10%;
+    float: left;
+
+}
+
+.card-2{
+
+    position: relative;
+    float: left;
+    left: 20%;
+    top: 400px;
+}
+
+.card-3{
+
+    position: relative;
+    float: left;
+    left: 30%;
+    top: 400px;
+    height: 150px;
+    width: 100px;
+    
+}
+
+.card-4{
+
+    position: relative;
+    float: left;
+    left: -19%;
+    top: 800px;
+    height: 150px;
+    width: 100px;
+    
+}
+.robot1{
+    height: 100%;
+    width: 70%;
+}
+
+.bio{
+    position: relative;
+    padding: 3px;
+    top: 100px;
+    left: 3%;
+    right: 3%;
+    align-items: center;
+    background-color: #e1e3e1;
+    border: 10px solid #f2f2f2;
+    border-radius: 5px;
+}
+
+.card-img-overlay{
+    background-color: #e1e3e1;
+    height: 300px;
+    width: auto;
+}
+
+.card-text2{
+    font-weight: bold;
+    
+}
+
+.footer{
+    position: relative;
+    top: 1200px;
+    background-color: #e1e3e1 ;
+}
+
+.pianokeys{
+    position: relative;
+    height: 100px;
+    width: 500px;
+    top: 600px;
+    left: 30%
+    
+    ;
+}
